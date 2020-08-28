@@ -1,5 +1,5 @@
-# Script-For-Sending-Emails-With-Attachment
-This script is used to send bulk emails with attachment for the core team members in DSC SASTRA Deemed to be University.
+# Script For Sending Emails With Attachment
+This script is used to send bulk emails with attachment for the core team members in DSC SASTRA Deemed to be University. This script may not be the best one, still it works fine.
 
 # Set Up
 <ol>
@@ -48,3 +48,8 @@ Make sure that you run the function <b>onOpen()</b> so that you can see the Auto
 
 ### 7. Output
 ![sheets 1](https://user-images.githubusercontent.com/24537737/91602750-7ae76d80-e989-11ea-9d6a-7d5fcf0827ec.PNG)
+
+
+<b>
+  Thanks to <a href="https://blog.gsmart.in/google-apps-script-send-email-with-attachment/">GSmart blog</a> for helping me to grasp the idea to write this script.
+</b>
