@@ -2,7 +2,7 @@
 This script is used to send bulk emails with attachment for the core team members in DSC SASTRA Deemed to be University. This script may not be the best one, still it works fine.
 
 <b>Note:</b><br/>
-<b>Google</b> Apps <b>Script</b> is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications. (definition from [here](https://gsuite.google.com/marketplace/app/google_apps_script/629453589428).) <a href ="https://github.com/kavinraju/Script-For-Sending-Emails-With-Attachment/blob/master/Code.js">Code.js</a> is the same file you see in the App Script Console as <b>Code.gs</b>. 
+<b>Google</b> Apps <b>Script</b> is a JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications (definition from [here](https://gsuite.google.com/marketplace/app/google_apps_script/629453589428).) <a href ="https://github.com/kavinraju/Script-For-Sending-Emails-With-Attachment/blob/master/Code.js">Code.js</a> is the same file you see in the App Script Console as <b>Code.gs</b>. 
 
 # Set Up
 <ol>
