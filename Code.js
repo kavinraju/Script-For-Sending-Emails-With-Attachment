@@ -110,14 +110,14 @@ function getCertificateFile(fileName){
 }
 
 /**
- * updateCertificateFileNames(@param {*} folderName)
+ * updateCertificateFileDownloadUrl(@param {*} folderName)
  * @param {*} folderName is the folder name to be retrieved from Google Drive.
  * 
  * This function retrives the instance of the SpreadsheetApp of 'Sheet1'. Open the Drive folder with the folder name
  * @param {*} folderName and iterates the files in it. Copies the download URL of the files and adds into the Spreadsheet.
  * By default download URLs are pasted into the spreadsheet's 4th column.
  */
-function updateCertificateFileNames(folderName = "Certificates 2016 - 2020 - Kavin Raju S"){  
+function updateCertificateFileDownloadUrl(folderName = "Certificates 2016 - 2020 - Kavin Raju S"){  
   
   var row = SpreadsheetApp.getActiveSheet().getActiveCell().getRow();
   var sheet = SpreadsheetApp.getActive().getSheetByName('Sheet1');
